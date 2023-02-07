@@ -39,16 +39,25 @@ I love knowing that I can build a website, an app and a bunch of stuff that I an
 ## Skills
 
 #### Languages
+
 - HTML
 - CSS
+
 #### Preprocessors
-  - SCSS
+
+- SCSS
+
 #### Methodologies
-  - BEM
+
+- BEM
+
 #### VCSs
-  - Git
+
+- Git
+
 #### IDEs
-  - VS Code
+
+- VS Code
   
 ## Code example
 
